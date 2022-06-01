@@ -9,7 +9,7 @@ module.exports = {
         'LA': "url('../img/LA.jpg')",
         'seattle': "url('../img/seattle.jpg')",
         'new_york': "url('../img/new_york.jpg')",
-        'norway': "url('../img/norway.jpg)",
+        'norway': "url('../img/norway.jpg')",
         'sydney': "url('../img/sydney.jpg')",
         'miami': "url('../img/miami.jpg')",
         'switzerland': "url('../img/switzerland.jpg')",
