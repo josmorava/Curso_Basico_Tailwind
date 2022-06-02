@@ -5,5 +5,5 @@
 /*creando clase reutilizable*/
 
 .card{
-  @apply w-48 h-64 shadow-2xl rounded-lg
+  @apply w-48 h-64 shadow-2xl rounded-lg flex-none
 }
