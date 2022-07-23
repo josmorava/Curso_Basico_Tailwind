@@ -1,5 +1,9 @@
 module.exports = {
   content: ['./public/index.html', './src/**/*.{html,js}'],
+  darkMode: 'class',
+  purge:[
+    './public/**/*.html'
+  ],
   theme: {
     extend: {
       backgroundImage: {
